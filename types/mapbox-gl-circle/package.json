@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "@types/mapbox-gl-circle",
+    "version": "1.6.9999",
+    "projects": [
+        "https://github.com/smithmicro/mapbox-gl-circle"
+    ],
+    "dependencies": {
+        "@types/mapbox-gl": "*"
+    },
+    "devDependencies": {
+        "@types/mapbox-gl-circle": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Moritz Hein",
+            "githubUsername": "Kage0x3B"
+        }
+    ]
+}
